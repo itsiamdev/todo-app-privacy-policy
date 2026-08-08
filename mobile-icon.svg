@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-labelledby="title desc">
+  <title id="title">Todo mobile icon</title>
+  <desc id="desc">A simple mobile device outline with a check mark</desc>
+  <rect x="6.5" y="2.5" width="11" height="19" rx="2.2" fill="none" stroke="#ffffff" stroke-width="1.8"/>
+  <path d="m9.5 12.1 1.7 1.7 3.5-3.7" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+  <path d="M10.5 18.3h3" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-width="1.4"/>
+</svg>
